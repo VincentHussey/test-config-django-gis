@@ -4,7 +4,6 @@
 local_settings.py
 
 env/
-_build
 _static
 _templates
 
