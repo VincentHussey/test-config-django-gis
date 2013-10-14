@@ -1,0 +1,1 @@
+Search.setIndex({envversion:42,terms:{index:0,search:0,modul:0,"public":1,content:0,veri:1,page:0},objtypes:{},objnames:{},filenames:["index","all-about-me"],titles:["Welcome to Test Django GIS&#8217;s documentation!","Vincent Hussey"],objects:{},titleterms:{welcom:0,tabl:0,indic:0,django:0,hussei:1,test:0,vincent:1,document:0}})
